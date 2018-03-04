@@ -1,6 +1,6 @@
 ########### sample of calling FaceAPI from Python 3.6 #############
 ## @fujute : March4,2018
-##  This is modified version from original code from "https://docs.microsoft.com/en-us/azure/cognitive-services/face/tutorials/faceapiinpythontutorial "
+##  This is modified version from original code from " https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236 "
 ##
 import http.client, urllib.request, urllib.parse, urllib.error, base64
 
